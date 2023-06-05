@@ -1,0 +1,10 @@
+# nvidia-container-toolkit
+# nvidia/cuda
+Django==3.2.13
+environs==7.3.1
+keras==2.12.0
+# tensorflow==2.12.0
+nvidia-pyindex==1.0.9
+numpy==1.23.5
+opencv-python==4.7.0.72
+nvidia-tensorrt==99.0.0
